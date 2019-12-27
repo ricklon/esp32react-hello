@@ -14,8 +14,9 @@ Wifi.h
 * Needed to configure the wifi.
   * SSID
   * Password 
+
 SPIFFS.h SPI Flash File System (https://docs.espressif.com/projects/esp-idf/en/latest/api-reference/storage/spiffs.html)
-* Total Flash Size is 16mb but Arduino can only acces 4mb
+* Total Flash Size is 16mb but Arduino can only acces 4mb (Not confirmed by testing)
 * Tutorial: https://techtutorialsx.com/2019/02/23/esp32-arduino-list-all-files-in-the-spiffs-file-system/
 * Library: https://github.com/pellepl/spiffs 
 * Place to store files being served
