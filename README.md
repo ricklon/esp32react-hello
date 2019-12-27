@@ -15,6 +15,7 @@ Wifi.h
   * SSID
   * Password 
 SPIFFS.h SPI Flash File System (https://docs.espressif.com/projects/esp-idf/en/latest/api-reference/storage/spiffs.html)
+* Total Flash Size is 16mb
 * Tutorial: https://techtutorialsx.com/2019/02/23/esp32-arduino-list-all-files-in-the-spiffs-file-system/
 * Library: https://github.com/pellepl/spiffs 
 * Place to store files being served
