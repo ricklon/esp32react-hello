@@ -9,6 +9,7 @@ Example of hosting a react (https://reactjs.org) project on an ESP32
 #include "WiFi.h"
 #include "SPIFFS.h"
 #include "ESPAsyncWebServer.h"
+#include <ESPmDNS.h>
 ```
 Wifi.h 
 * Needed to configure the wifi.
@@ -27,6 +28,9 @@ ESPAsyncWebServer.h Asyn Web Server
 * 
 * TODO: enable ssl
 
+
+Enable mDNS
+* `#include <ESPmDNS.h>`
 
 React Web Files:
 * index.html
