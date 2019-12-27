@@ -33,6 +33,14 @@ React Web Files:
 
 ## React Hello world
 
+* Create React App Tutorial: https://github.com/facebook/create-react-app#getting-started
+* Minify using `npm run build`
+* We'll run this on the esp32 but could be run locally with:
+```
+ npm install -g serve
+ serve -s build
+```
+
 
 ## References
 * http://www.react.express/
