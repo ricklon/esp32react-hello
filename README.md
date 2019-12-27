@@ -50,3 +50,6 @@ React Web Files:
 
 ## References
 * http://www.react.express/
+
+Websocket tutorial:
+https://techtutorialsx.com/2018/08/14/esp32-async-http-web-server-websockets-introduction/
